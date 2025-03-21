@@ -517,8 +517,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -575,13 +575,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -638,13 +638,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -683,13 +683,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -736,13 +736,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.wasm.br"
+          "Value": "framework/Microsoft.AspNetCore.Components.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -789,13 +789,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.wasm.gz"
+          "Value": "framework/Microsoft.AspNetCore.Components.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -852,13 +852,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.Web.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -915,13 +915,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.Web.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -960,13 +960,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.Web.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1013,13 +1013,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.Web.wasm.br"
+          "Value": "framework/Microsoft.AspNetCore.Components.Web.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1066,13 +1066,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.Web.wasm.gz"
+          "Value": "framework/Microsoft.AspNetCore.Components.Web.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1126,8 +1126,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1181,8 +1181,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1218,8 +1218,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1263,8 +1263,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.Web.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.Web.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.Web.horg9ede60.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1308,8 +1308,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1366,13 +1366,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1429,13 +1429,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1474,13 +1474,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
+          "Value": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1527,13 +1527,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br"
+          "Value": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1580,13 +1580,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz"
+          "Value": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1640,8 +1640,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1695,8 +1695,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1732,8 +1732,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1777,8 +1777,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.WebAssembly.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.WebAssembly.qyco4g5bmd.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1822,8 +1822,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1877,8 +1877,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1932,8 +1932,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.wasm",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
+      "Route": "framework/Microsoft.AspNetCore.Components.wasm",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1969,8 +1969,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.wasm.br",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
+      "Route": "framework/Microsoft.AspNetCore.Components.wasm.br",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2014,8 +2014,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.AspNetCore.Components.wasm.gz",
-      "AssetFile": "_framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
+      "Route": "framework/Microsoft.AspNetCore.Components.wasm.gz",
+      "AssetFile": "framework/Microsoft.AspNetCore.Components.1ch918594k.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2059,8 +2059,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2117,13 +2117,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2180,13 +2180,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2225,13 +2225,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2278,13 +2278,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2331,13 +2331,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2391,8 +2391,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2446,8 +2446,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2483,8 +2483,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2528,8 +2528,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Abstractions.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Abstractions.h19gpugiy5.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2573,8 +2573,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2631,13 +2631,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Json.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2694,13 +2694,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Json.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2739,13 +2739,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Json.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2792,13 +2792,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Json.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Configuration.Json.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2845,13 +2845,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.Json.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Configuration.Json.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2905,8 +2905,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2960,8 +2960,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2997,8 +2997,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3042,8 +3042,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.Json.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.Json.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.Json.n3x20s9cxz.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3087,8 +3087,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3145,13 +3145,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3208,13 +3208,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3253,13 +3253,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.wasm"
+          "Value": "framework/Microsoft.Extensions.Configuration.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3306,13 +3306,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Configuration.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,13 +3359,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Configuration.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Configuration.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3419,8 +3419,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3474,8 +3474,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
+      "Route": "framework/Microsoft.Extensions.Configuration.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3511,8 +3511,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Configuration.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3556,8 +3556,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Configuration.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Configuration.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Configuration.icatoxhjsq.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3601,8 +3601,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3659,13 +3659,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3722,13 +3722,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3767,13 +3767,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3820,13 +3820,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3873,13 +3873,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3933,8 +3933,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3988,8 +3988,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4025,8 +4025,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4070,8 +4070,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.Abstractions.ny5hkjb0ti.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4115,8 +4115,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4173,13 +4173,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4236,13 +4236,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4281,13 +4281,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.wasm"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4334,13 +4334,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.wasm.br"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4387,13 +4387,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.DependencyInjection.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.DependencyInjection.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4447,8 +4447,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4502,8 +4502,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4539,8 +4539,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4584,8 +4584,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.DependencyInjection.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.DependencyInjection.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.DependencyInjection.qeizni4cln.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4629,8 +4629,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4687,13 +4687,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4750,13 +4750,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4795,13 +4795,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.Abstractions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4848,13 +4848,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Logging.Abstractions.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4901,13 +4901,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4961,8 +4961,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5016,8 +5016,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5053,8 +5053,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5098,8 +5098,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.Abstractions.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.Abstractions.tia5wxogqn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5143,8 +5143,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5201,13 +5201,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5264,13 +5264,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
+      "Route": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5309,13 +5309,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.wasm"
+          "Value": "framework/Microsoft.Extensions.Logging.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5362,13 +5362,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Logging.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5415,13 +5415,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Logging.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Logging.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5475,8 +5475,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5530,8 +5530,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
+      "Route": "framework/Microsoft.Extensions.Logging.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5567,8 +5567,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Logging.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5612,8 +5612,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Logging.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Logging.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Logging.e47xhy91y6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5657,8 +5657,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5715,13 +5715,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Options.wasm"
+          "Value": "framework/Microsoft.Extensions.Options.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5778,13 +5778,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Options.wasm"
+          "Value": "framework/Microsoft.Extensions.Options.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
+      "Route": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5823,13 +5823,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Options.wasm"
+          "Value": "framework/Microsoft.Extensions.Options.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5876,13 +5876,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Options.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Options.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5929,13 +5929,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Options.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Options.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Options.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5989,8 +5989,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Options.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6044,8 +6044,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
+      "Route": "framework/Microsoft.Extensions.Options.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6081,8 +6081,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Options.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6126,8 +6126,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Options.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Options.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Options.dvulh3voq4.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6171,8 +6171,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6229,13 +6229,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Primitives.wasm"
+          "Value": "framework/Microsoft.Extensions.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6292,13 +6292,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Primitives.wasm"
+          "Value": "framework/Microsoft.Extensions.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
+      "Route": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6337,13 +6337,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Primitives.wasm"
+          "Value": "framework/Microsoft.Extensions.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6390,13 +6390,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Primitives.wasm.br"
+          "Value": "framework/Microsoft.Extensions.Primitives.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6443,13 +6443,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.Extensions.Primitives.wasm.gz"
+          "Value": "framework/Microsoft.Extensions.Primitives.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Primitives.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6503,8 +6503,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Primitives.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6558,8 +6558,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.wasm",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
+      "Route": "framework/Microsoft.Extensions.Primitives.wasm",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6595,8 +6595,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.wasm.br",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
+      "Route": "framework/Microsoft.Extensions.Primitives.wasm.br",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6640,8 +6640,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.Extensions.Primitives.wasm.gz",
-      "AssetFile": "_framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
+      "Route": "framework/Microsoft.Extensions.Primitives.wasm.gz",
+      "AssetFile": "framework/Microsoft.Extensions.Primitives.b4jkd67mjk.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6685,8 +6685,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6743,13 +6743,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.WebAssembly.wasm"
+          "Value": "framework/Microsoft.JSInterop.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6806,13 +6806,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.WebAssembly.wasm"
+          "Value": "framework/Microsoft.JSInterop.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6851,13 +6851,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.WebAssembly.wasm"
+          "Value": "framework/Microsoft.JSInterop.WebAssembly.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6904,13 +6904,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.WebAssembly.wasm.br"
+          "Value": "framework/Microsoft.JSInterop.WebAssembly.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6957,13 +6957,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.WebAssembly.wasm.gz"
+          "Value": "framework/Microsoft.JSInterop.WebAssembly.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7017,8 +7017,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7072,8 +7072,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7109,8 +7109,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.wasm.br",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.wasm.br",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7154,8 +7154,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.WebAssembly.wasm.gz",
-      "AssetFile": "_framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.WebAssembly.wasm.gz",
+      "AssetFile": "framework/Microsoft.JSInterop.WebAssembly.s0bw0921jm.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7199,8 +7199,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.ceii4uvike.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.ceii4uvike.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7257,13 +7257,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.wasm"
+          "Value": "framework/Microsoft.JSInterop.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.ceii4uvike.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.ceii4uvike.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7320,13 +7320,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.wasm"
+          "Value": "framework/Microsoft.JSInterop.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.ceii4uvike.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm",
+      "Route": "framework/Microsoft.JSInterop.ceii4uvike.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7365,13 +7365,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.wasm"
+          "Value": "framework/Microsoft.JSInterop.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7418,13 +7418,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.wasm.br"
+          "Value": "framework/Microsoft.JSInterop.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7471,13 +7471,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/Microsoft.JSInterop.wasm.gz"
+          "Value": "framework/Microsoft.JSInterop.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7531,8 +7531,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7586,8 +7586,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.wasm",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm",
+      "Route": "framework/Microsoft.JSInterop.wasm",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7623,8 +7623,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.wasm.br",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
+      "Route": "framework/Microsoft.JSInterop.wasm.br",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7668,8 +7668,8 @@
       ]
     },
     {
-      "Route": "_framework/Microsoft.JSInterop.wasm.gz",
-      "AssetFile": "_framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
+      "Route": "framework/Microsoft.JSInterop.wasm.gz",
+      "AssetFile": "framework/Microsoft.JSInterop.ceii4uvike.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7713,8 +7713,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
+      "Route": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7771,13 +7771,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Concurrent.wasm"
+          "Value": "framework/System.Collections.Concurrent.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
+      "Route": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7834,13 +7834,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Concurrent.wasm"
+          "Value": "framework/System.Collections.Concurrent.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
+      "Route": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7879,13 +7879,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Concurrent.wasm"
+          "Value": "framework/System.Collections.Concurrent.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
+      "Route": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7932,13 +7932,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Concurrent.wasm.br"
+          "Value": "framework/System.Collections.Concurrent.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
+      "Route": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7985,13 +7985,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Concurrent.wasm.gz"
+          "Value": "framework/System.Collections.Concurrent.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
+      "Route": "framework/System.Collections.Concurrent.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8045,8 +8045,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
+      "Route": "framework/System.Collections.Concurrent.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8100,8 +8100,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.wasm",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
+      "Route": "framework/System.Collections.Concurrent.wasm",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8137,8 +8137,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.wasm.br",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
+      "Route": "framework/System.Collections.Concurrent.wasm.br",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8182,8 +8182,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Concurrent.wasm.gz",
-      "AssetFile": "_framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
+      "Route": "framework/System.Collections.Concurrent.wasm.gz",
+      "AssetFile": "framework/System.Collections.Concurrent.3ehu1bcyg6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8227,8 +8227,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.i5mojijpem.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.br",
+      "Route": "framework/System.Collections.Immutable.i5mojijpem.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8285,13 +8285,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Immutable.wasm"
+          "Value": "framework/System.Collections.Immutable.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.i5mojijpem.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
+      "Route": "framework/System.Collections.Immutable.i5mojijpem.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8348,13 +8348,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Immutable.wasm"
+          "Value": "framework/System.Collections.Immutable.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.i5mojijpem.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm",
+      "Route": "framework/System.Collections.Immutable.i5mojijpem.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8393,13 +8393,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Immutable.wasm"
+          "Value": "framework/System.Collections.Immutable.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.i5mojijpem.wasm.br",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.br",
+      "Route": "framework/System.Collections.Immutable.i5mojijpem.wasm.br",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8446,13 +8446,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Immutable.wasm.br"
+          "Value": "framework/System.Collections.Immutable.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
+      "Route": "framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8499,13 +8499,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.Immutable.wasm.gz"
+          "Value": "framework/System.Collections.Immutable.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.br",
+      "Route": "framework/System.Collections.Immutable.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8559,8 +8559,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
+      "Route": "framework/System.Collections.Immutable.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8614,8 +8614,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.wasm",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm",
+      "Route": "framework/System.Collections.Immutable.wasm",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8651,8 +8651,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.wasm.br",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.br",
+      "Route": "framework/System.Collections.Immutable.wasm.br",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8696,8 +8696,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.Immutable.wasm.gz",
-      "AssetFile": "_framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
+      "Route": "framework/System.Collections.Immutable.wasm.gz",
+      "AssetFile": "framework/System.Collections.Immutable.i5mojijpem.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8741,8 +8741,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.h351ju0jme.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.br",
+      "Route": "framework/System.Collections.h351ju0jme.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8799,13 +8799,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.wasm"
+          "Value": "framework/System.Collections.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.h351ju0jme.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.gz",
+      "Route": "framework/System.Collections.h351ju0jme.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8862,13 +8862,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.wasm"
+          "Value": "framework/System.Collections.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.h351ju0jme.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm",
+      "Route": "framework/System.Collections.h351ju0jme.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8907,13 +8907,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.wasm"
+          "Value": "framework/System.Collections.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.h351ju0jme.wasm.br",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.br",
+      "Route": "framework/System.Collections.h351ju0jme.wasm.br",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8960,13 +8960,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.wasm.br"
+          "Value": "framework/System.Collections.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.h351ju0jme.wasm.gz",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.gz",
+      "Route": "framework/System.Collections.h351ju0jme.wasm.gz",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9013,13 +9013,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Collections.wasm.gz"
+          "Value": "framework/System.Collections.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.br",
+      "Route": "framework/System.Collections.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9073,8 +9073,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.gz",
+      "Route": "framework/System.Collections.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9128,8 +9128,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.wasm",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm",
+      "Route": "framework/System.Collections.wasm",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9165,8 +9165,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.wasm.br",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.br",
+      "Route": "framework/System.Collections.wasm.br",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9210,8 +9210,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Collections.wasm.gz",
-      "AssetFile": "_framework/System.Collections.h351ju0jme.wasm.gz",
+      "Route": "framework/System.Collections.wasm.gz",
+      "AssetFile": "framework/System.Collections.h351ju0jme.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9255,8 +9255,8 @@
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.m263etp3iy.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.br",
+      "Route": "framework/System.ComponentModel.m263etp3iy.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9313,13 +9313,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.ComponentModel.wasm"
+          "Value": "framework/System.ComponentModel.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.m263etp3iy.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.gz",
+      "Route": "framework/System.ComponentModel.m263etp3iy.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9376,13 +9376,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.ComponentModel.wasm"
+          "Value": "framework/System.ComponentModel.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.m263etp3iy.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm",
+      "Route": "framework/System.ComponentModel.m263etp3iy.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9421,13 +9421,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.ComponentModel.wasm"
+          "Value": "framework/System.ComponentModel.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.m263etp3iy.wasm.br",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.br",
+      "Route": "framework/System.ComponentModel.m263etp3iy.wasm.br",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9474,13 +9474,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.ComponentModel.wasm.br"
+          "Value": "framework/System.ComponentModel.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.m263etp3iy.wasm.gz",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.gz",
+      "Route": "framework/System.ComponentModel.m263etp3iy.wasm.gz",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9527,13 +9527,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.ComponentModel.wasm.gz"
+          "Value": "framework/System.ComponentModel.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.br",
+      "Route": "framework/System.ComponentModel.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9587,8 +9587,8 @@
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.gz",
+      "Route": "framework/System.ComponentModel.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9642,8 +9642,8 @@
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.wasm",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm",
+      "Route": "framework/System.ComponentModel.wasm",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9679,8 +9679,8 @@
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.wasm.br",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.br",
+      "Route": "framework/System.ComponentModel.wasm.br",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9724,8 +9724,8 @@
       ]
     },
     {
-      "Route": "_framework/System.ComponentModel.wasm.gz",
-      "AssetFile": "_framework/System.ComponentModel.m263etp3iy.wasm.gz",
+      "Route": "framework/System.ComponentModel.wasm.gz",
+      "AssetFile": "framework/System.ComponentModel.m263etp3iy.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9769,8 +9769,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Console.ekhf5tvskn.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.br",
+      "Route": "framework/System.Console.ekhf5tvskn.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9827,13 +9827,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Console.wasm"
+          "Value": "framework/System.Console.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Console.ekhf5tvskn.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.gz",
+      "Route": "framework/System.Console.ekhf5tvskn.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9890,13 +9890,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Console.wasm"
+          "Value": "framework/System.Console.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Console.ekhf5tvskn.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm",
+      "Route": "framework/System.Console.ekhf5tvskn.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9935,13 +9935,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Console.wasm"
+          "Value": "framework/System.Console.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Console.ekhf5tvskn.wasm.br",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.br",
+      "Route": "framework/System.Console.ekhf5tvskn.wasm.br",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9988,13 +9988,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Console.wasm.br"
+          "Value": "framework/System.Console.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Console.ekhf5tvskn.wasm.gz",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.gz",
+      "Route": "framework/System.Console.ekhf5tvskn.wasm.gz",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10041,13 +10041,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Console.wasm.gz"
+          "Value": "framework/System.Console.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Console.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.br",
+      "Route": "framework/System.Console.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10101,8 +10101,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Console.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.gz",
+      "Route": "framework/System.Console.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10156,8 +10156,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Console.wasm",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm",
+      "Route": "framework/System.Console.wasm",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10193,8 +10193,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Console.wasm.br",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.br",
+      "Route": "framework/System.Console.wasm.br",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10238,8 +10238,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Console.wasm.gz",
-      "AssetFile": "_framework/System.Console.ekhf5tvskn.wasm.gz",
+      "Route": "framework/System.Console.wasm.gz",
+      "AssetFile": "framework/System.Console.ekhf5tvskn.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10283,8 +10283,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10341,13 +10341,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Diagnostics.DiagnosticSource.wasm"
+          "Value": "framework/System.Diagnostics.DiagnosticSource.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10404,13 +10404,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Diagnostics.DiagnosticSource.wasm"
+          "Value": "framework/System.Diagnostics.DiagnosticSource.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10449,13 +10449,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Diagnostics.DiagnosticSource.wasm"
+          "Value": "framework/System.Diagnostics.DiagnosticSource.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10502,13 +10502,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Diagnostics.DiagnosticSource.wasm.br"
+          "Value": "framework/System.Diagnostics.DiagnosticSource.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10555,13 +10555,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Diagnostics.DiagnosticSource.wasm.gz"
+          "Value": "framework/System.Diagnostics.DiagnosticSource.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10615,8 +10615,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10670,8 +10670,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.wasm",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.wasm",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10707,8 +10707,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.wasm.br",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.wasm.br",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10752,8 +10752,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Diagnostics.DiagnosticSource.wasm.gz",
-      "AssetFile": "_framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
+      "Route": "framework/System.Diagnostics.DiagnosticSource.wasm.gz",
+      "AssetFile": "framework/System.Diagnostics.DiagnosticSource.fcqqkky6os.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10797,8 +10797,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
+      "Route": "framework/System.IO.Pipelines.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10852,8 +10852,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
+      "Route": "framework/System.IO.Pipelines.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10907,8 +10907,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm",
+      "Route": "framework/System.IO.Pipelines.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10944,8 +10944,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.wasm.br",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
+      "Route": "framework/System.IO.Pipelines.wasm.br",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10989,8 +10989,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.wasm.gz",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
+      "Route": "framework/System.IO.Pipelines.wasm.gz",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11034,8 +11034,8 @@
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
+      "Route": "framework/System.IO.Pipelines.xy0xpl5xng.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11092,13 +11092,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.IO.Pipelines.wasm"
+          "Value": "framework/System.IO.Pipelines.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
+      "Route": "framework/System.IO.Pipelines.xy0xpl5xng.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11155,13 +11155,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.IO.Pipelines.wasm"
+          "Value": "framework/System.IO.Pipelines.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm",
+      "Route": "framework/System.IO.Pipelines.xy0xpl5xng.wasm",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11200,13 +11200,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.IO.Pipelines.wasm"
+          "Value": "framework/System.IO.Pipelines.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
+      "Route": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11253,13 +11253,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.IO.Pipelines.wasm.br"
+          "Value": "framework/System.IO.Pipelines.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
-      "AssetFile": "_framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
+      "Route": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
+      "AssetFile": "framework/System.IO.Pipelines.xy0xpl5xng.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11306,13 +11306,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.IO.Pipelines.wasm.gz"
+          "Value": "framework/System.IO.Pipelines.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.8n1yv2q739.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.br",
+      "Route": "framework/System.Linq.8n1yv2q739.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11369,13 +11369,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Linq.wasm"
+          "Value": "framework/System.Linq.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.8n1yv2q739.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.gz",
+      "Route": "framework/System.Linq.8n1yv2q739.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11432,13 +11432,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Linq.wasm"
+          "Value": "framework/System.Linq.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.8n1yv2q739.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm",
+      "Route": "framework/System.Linq.8n1yv2q739.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11477,13 +11477,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Linq.wasm"
+          "Value": "framework/System.Linq.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.8n1yv2q739.wasm.br",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.br",
+      "Route": "framework/System.Linq.8n1yv2q739.wasm.br",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11530,13 +11530,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Linq.wasm.br"
+          "Value": "framework/System.Linq.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.8n1yv2q739.wasm.gz",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.gz",
+      "Route": "framework/System.Linq.8n1yv2q739.wasm.gz",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11583,13 +11583,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Linq.wasm.gz"
+          "Value": "framework/System.Linq.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Linq.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.br",
+      "Route": "framework/System.Linq.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11643,8 +11643,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Linq.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.gz",
+      "Route": "framework/System.Linq.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11698,8 +11698,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Linq.wasm",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm",
+      "Route": "framework/System.Linq.wasm",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11735,8 +11735,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Linq.wasm.br",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.br",
+      "Route": "framework/System.Linq.wasm.br",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11780,8 +11780,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Linq.wasm.gz",
-      "AssetFile": "_framework/System.Linq.8n1yv2q739.wasm.gz",
+      "Route": "framework/System.Linq.wasm.gz",
+      "AssetFile": "framework/System.Linq.8n1yv2q739.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11825,8 +11825,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.br",
+      "Route": "framework/System.Memory.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11880,8 +11880,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.gz",
+      "Route": "framework/System.Memory.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11935,8 +11935,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm",
+      "Route": "framework/System.Memory.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11972,8 +11972,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.wasm.br",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.br",
+      "Route": "framework/System.Memory.wasm.br",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12017,8 +12017,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.wasm.gz",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.gz",
+      "Route": "framework/System.Memory.wasm.gz",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12062,8 +12062,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Memory.xfrj41ayqo.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.br",
+      "Route": "framework/System.Memory.xfrj41ayqo.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12120,13 +12120,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Memory.wasm"
+          "Value": "framework/System.Memory.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Memory.xfrj41ayqo.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.gz",
+      "Route": "framework/System.Memory.xfrj41ayqo.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12183,13 +12183,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Memory.wasm"
+          "Value": "framework/System.Memory.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Memory.xfrj41ayqo.wasm",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm",
+      "Route": "framework/System.Memory.xfrj41ayqo.wasm",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12228,13 +12228,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Memory.wasm"
+          "Value": "framework/System.Memory.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Memory.xfrj41ayqo.wasm.br",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.br",
+      "Route": "framework/System.Memory.xfrj41ayqo.wasm.br",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12281,13 +12281,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Memory.wasm.br"
+          "Value": "framework/System.Memory.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Memory.xfrj41ayqo.wasm.gz",
-      "AssetFile": "_framework/System.Memory.xfrj41ayqo.wasm.gz",
+      "Route": "framework/System.Memory.xfrj41ayqo.wasm.gz",
+      "AssetFile": "framework/System.Memory.xfrj41ayqo.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12334,13 +12334,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Memory.wasm.gz"
+          "Value": "framework/System.Memory.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.cqes6acqer.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.br",
+      "Route": "framework/System.Net.Http.Json.cqes6acqer.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12397,13 +12397,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.Json.wasm"
+          "Value": "framework/System.Net.Http.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.cqes6acqer.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
+      "Route": "framework/System.Net.Http.Json.cqes6acqer.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12460,13 +12460,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.Json.wasm"
+          "Value": "framework/System.Net.Http.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.cqes6acqer.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm",
+      "Route": "framework/System.Net.Http.Json.cqes6acqer.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12505,13 +12505,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.Json.wasm"
+          "Value": "framework/System.Net.Http.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.cqes6acqer.wasm.br",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.br",
+      "Route": "framework/System.Net.Http.Json.cqes6acqer.wasm.br",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12558,13 +12558,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.Json.wasm.br"
+          "Value": "framework/System.Net.Http.Json.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
+      "Route": "framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12611,13 +12611,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.Json.wasm.gz"
+          "Value": "framework/System.Net.Http.Json.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.br",
+      "Route": "framework/System.Net.Http.Json.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12671,8 +12671,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
+      "Route": "framework/System.Net.Http.Json.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12726,8 +12726,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.wasm",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm",
+      "Route": "framework/System.Net.Http.Json.wasm",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12763,8 +12763,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.wasm.br",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.br",
+      "Route": "framework/System.Net.Http.Json.wasm.br",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12808,8 +12808,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.Json.wasm.gz",
-      "AssetFile": "_framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
+      "Route": "framework/System.Net.Http.Json.wasm.gz",
+      "AssetFile": "framework/System.Net.Http.Json.cqes6acqer.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -12853,8 +12853,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.piof5r7xyl.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.br",
+      "Route": "framework/System.Net.Http.piof5r7xyl.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12911,13 +12911,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.wasm"
+          "Value": "framework/System.Net.Http.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.piof5r7xyl.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.gz",
+      "Route": "framework/System.Net.Http.piof5r7xyl.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12974,13 +12974,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.wasm"
+          "Value": "framework/System.Net.Http.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.piof5r7xyl.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm",
+      "Route": "framework/System.Net.Http.piof5r7xyl.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13019,13 +13019,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.wasm"
+          "Value": "framework/System.Net.Http.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.piof5r7xyl.wasm.br",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.br",
+      "Route": "framework/System.Net.Http.piof5r7xyl.wasm.br",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13072,13 +13072,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.wasm.br"
+          "Value": "framework/System.Net.Http.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.piof5r7xyl.wasm.gz",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.gz",
+      "Route": "framework/System.Net.Http.piof5r7xyl.wasm.gz",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13125,13 +13125,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Http.wasm.gz"
+          "Value": "framework/System.Net.Http.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.br",
+      "Route": "framework/System.Net.Http.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13185,8 +13185,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.gz",
+      "Route": "framework/System.Net.Http.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13240,8 +13240,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.wasm",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm",
+      "Route": "framework/System.Net.Http.wasm",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13277,8 +13277,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.wasm.br",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.br",
+      "Route": "framework/System.Net.Http.wasm.br",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13322,8 +13322,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Http.wasm.gz",
-      "AssetFile": "_framework/System.Net.Http.piof5r7xyl.wasm.gz",
+      "Route": "framework/System.Net.Http.wasm.gz",
+      "AssetFile": "framework/System.Net.Http.piof5r7xyl.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13367,8 +13367,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
+      "Route": "framework/System.Net.Primitives.qp4b0cp8qy.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13425,13 +13425,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Primitives.wasm"
+          "Value": "framework/System.Net.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
+      "Route": "framework/System.Net.Primitives.qp4b0cp8qy.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13488,13 +13488,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Primitives.wasm"
+          "Value": "framework/System.Net.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm",
+      "Route": "framework/System.Net.Primitives.qp4b0cp8qy.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13533,13 +13533,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Primitives.wasm"
+          "Value": "framework/System.Net.Primitives.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
+      "Route": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13586,13 +13586,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Primitives.wasm.br"
+          "Value": "framework/System.Net.Primitives.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
+      "Route": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13639,13 +13639,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Net.Primitives.wasm.gz"
+          "Value": "framework/System.Net.Primitives.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
+      "Route": "framework/System.Net.Primitives.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13699,8 +13699,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
+      "Route": "framework/System.Net.Primitives.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13754,8 +13754,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.wasm",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm",
+      "Route": "framework/System.Net.Primitives.wasm",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13791,8 +13791,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.wasm.br",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
+      "Route": "framework/System.Net.Primitives.wasm.br",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13836,8 +13836,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Net.Primitives.wasm.gz",
-      "AssetFile": "_framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
+      "Route": "framework/System.Net.Primitives.wasm.gz",
+      "AssetFile": "framework/System.Net.Primitives.qp4b0cp8qy.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13881,8 +13881,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.u5jv77dy37.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
+      "Route": "framework/System.Private.CoreLib.u5jv77dy37.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -13939,13 +13939,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.CoreLib.wasm"
+          "Value": "framework/System.Private.CoreLib.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.u5jv77dy37.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
+      "Route": "framework/System.Private.CoreLib.u5jv77dy37.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14002,13 +14002,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.CoreLib.wasm"
+          "Value": "framework/System.Private.CoreLib.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.u5jv77dy37.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm",
+      "Route": "framework/System.Private.CoreLib.u5jv77dy37.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14047,13 +14047,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.CoreLib.wasm"
+          "Value": "framework/System.Private.CoreLib.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
+      "Route": "framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14100,13 +14100,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.CoreLib.wasm.br"
+          "Value": "framework/System.Private.CoreLib.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
+      "Route": "framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14153,13 +14153,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.CoreLib.wasm.gz"
+          "Value": "framework/System.Private.CoreLib.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
+      "Route": "framework/System.Private.CoreLib.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14213,8 +14213,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
+      "Route": "framework/System.Private.CoreLib.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14268,8 +14268,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.wasm",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm",
+      "Route": "framework/System.Private.CoreLib.wasm",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14305,8 +14305,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.wasm.br",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
+      "Route": "framework/System.Private.CoreLib.wasm.br",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14350,8 +14350,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.CoreLib.wasm.gz",
-      "AssetFile": "_framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
+      "Route": "framework/System.Private.CoreLib.wasm.gz",
+      "AssetFile": "framework/System.Private.CoreLib.u5jv77dy37.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14395,8 +14395,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.8l811z0f5x.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.br",
+      "Route": "framework/System.Private.Uri.8l811z0f5x.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14453,13 +14453,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.Uri.wasm"
+          "Value": "framework/System.Private.Uri.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.8l811z0f5x.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.gz",
+      "Route": "framework/System.Private.Uri.8l811z0f5x.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14516,13 +14516,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.Uri.wasm"
+          "Value": "framework/System.Private.Uri.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.8l811z0f5x.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm",
+      "Route": "framework/System.Private.Uri.8l811z0f5x.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14561,13 +14561,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.Uri.wasm"
+          "Value": "framework/System.Private.Uri.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.8l811z0f5x.wasm.br",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.br",
+      "Route": "framework/System.Private.Uri.8l811z0f5x.wasm.br",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14614,13 +14614,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.Uri.wasm.br"
+          "Value": "framework/System.Private.Uri.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.8l811z0f5x.wasm.gz",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.gz",
+      "Route": "framework/System.Private.Uri.8l811z0f5x.wasm.gz",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14667,13 +14667,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Private.Uri.wasm.gz"
+          "Value": "framework/System.Private.Uri.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.br",
+      "Route": "framework/System.Private.Uri.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14727,8 +14727,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.gz",
+      "Route": "framework/System.Private.Uri.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14782,8 +14782,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.wasm",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm",
+      "Route": "framework/System.Private.Uri.wasm",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14819,8 +14819,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.wasm.br",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.br",
+      "Route": "framework/System.Private.Uri.wasm.br",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14864,8 +14864,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Private.Uri.wasm.gz",
-      "AssetFile": "_framework/System.Private.Uri.8l811z0f5x.wasm.gz",
+      "Route": "framework/System.Private.Uri.wasm.gz",
+      "AssetFile": "framework/System.Private.Uri.8l811z0f5x.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14909,8 +14909,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -14967,13 +14967,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
+          "Value": "framework/System.Runtime.InteropServices.JavaScript.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15030,13 +15030,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
+          "Value": "framework/System.Runtime.InteropServices.JavaScript.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15075,13 +15075,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.InteropServices.JavaScript.wasm"
+          "Value": "framework/System.Runtime.InteropServices.JavaScript.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15128,13 +15128,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.InteropServices.JavaScript.wasm.br"
+          "Value": "framework/System.Runtime.InteropServices.JavaScript.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15181,13 +15181,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.InteropServices.JavaScript.wasm.gz"
+          "Value": "framework/System.Runtime.InteropServices.JavaScript.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15241,8 +15241,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15296,8 +15296,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.wasm",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.wasm",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15333,8 +15333,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.wasm.br",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.wasm.br",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15378,8 +15378,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.InteropServices.JavaScript.wasm.gz",
-      "AssetFile": "_framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
+      "Route": "framework/System.Runtime.InteropServices.JavaScript.wasm.gz",
+      "AssetFile": "framework/System.Runtime.InteropServices.JavaScript.0tgicm7vjk.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15423,8 +15423,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.rg4tspnluz.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.br",
+      "Route": "framework/System.Runtime.rg4tspnluz.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15481,13 +15481,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.wasm"
+          "Value": "framework/System.Runtime.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.rg4tspnluz.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.gz",
+      "Route": "framework/System.Runtime.rg4tspnluz.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15544,13 +15544,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.wasm"
+          "Value": "framework/System.Runtime.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.rg4tspnluz.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm",
+      "Route": "framework/System.Runtime.rg4tspnluz.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15589,13 +15589,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.wasm"
+          "Value": "framework/System.Runtime.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.rg4tspnluz.wasm.br",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.br",
+      "Route": "framework/System.Runtime.rg4tspnluz.wasm.br",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15642,13 +15642,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.wasm.br"
+          "Value": "framework/System.Runtime.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.rg4tspnluz.wasm.gz",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.gz",
+      "Route": "framework/System.Runtime.rg4tspnluz.wasm.gz",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15695,13 +15695,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Runtime.wasm.gz"
+          "Value": "framework/System.Runtime.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Runtime.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.br",
+      "Route": "framework/System.Runtime.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15755,8 +15755,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.gz",
+      "Route": "framework/System.Runtime.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15810,8 +15810,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.wasm",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm",
+      "Route": "framework/System.Runtime.wasm",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15847,8 +15847,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.wasm.br",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.br",
+      "Route": "framework/System.Runtime.wasm.br",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15892,8 +15892,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Runtime.wasm.gz",
-      "AssetFile": "_framework/System.Runtime.rg4tspnluz.wasm.gz",
+      "Route": "framework/System.Runtime.wasm.gz",
+      "AssetFile": "framework/System.Runtime.rg4tspnluz.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -15937,8 +15937,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
+      "Route": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -15995,13 +15995,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Encodings.Web.wasm"
+          "Value": "framework/System.Text.Encodings.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
+      "Route": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16058,13 +16058,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Encodings.Web.wasm"
+          "Value": "framework/System.Text.Encodings.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
+      "Route": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16103,13 +16103,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Encodings.Web.wasm"
+          "Value": "framework/System.Text.Encodings.Web.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
+      "Route": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16156,13 +16156,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Encodings.Web.wasm.br"
+          "Value": "framework/System.Text.Encodings.Web.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
+      "Route": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16209,13 +16209,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Encodings.Web.wasm.gz"
+          "Value": "framework/System.Text.Encodings.Web.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
+      "Route": "framework/System.Text.Encodings.Web.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16269,8 +16269,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
+      "Route": "framework/System.Text.Encodings.Web.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16324,8 +16324,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.wasm",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
+      "Route": "framework/System.Text.Encodings.Web.wasm",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16361,8 +16361,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.wasm.br",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
+      "Route": "framework/System.Text.Encodings.Web.wasm.br",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16406,8 +16406,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Encodings.Web.wasm.gz",
-      "AssetFile": "_framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
+      "Route": "framework/System.Text.Encodings.Web.wasm.gz",
+      "AssetFile": "framework/System.Text.Encodings.Web.4qnc5ob8fw.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16451,8 +16451,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.h9hjck7oqu.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.br",
+      "Route": "framework/System.Text.Json.h9hjck7oqu.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16509,13 +16509,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Json.wasm"
+          "Value": "framework/System.Text.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.h9hjck7oqu.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.gz",
+      "Route": "framework/System.Text.Json.h9hjck7oqu.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16572,13 +16572,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Json.wasm"
+          "Value": "framework/System.Text.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.h9hjck7oqu.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm",
+      "Route": "framework/System.Text.Json.h9hjck7oqu.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16617,13 +16617,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Json.wasm"
+          "Value": "framework/System.Text.Json.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.h9hjck7oqu.wasm.br",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.br",
+      "Route": "framework/System.Text.Json.h9hjck7oqu.wasm.br",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16670,13 +16670,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Json.wasm.br"
+          "Value": "framework/System.Text.Json.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.h9hjck7oqu.wasm.gz",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.gz",
+      "Route": "framework/System.Text.Json.h9hjck7oqu.wasm.gz",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16723,13 +16723,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.Json.wasm.gz"
+          "Value": "framework/System.Text.Json.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.br",
+      "Route": "framework/System.Text.Json.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16783,8 +16783,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.gz",
+      "Route": "framework/System.Text.Json.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -16838,8 +16838,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.wasm",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm",
+      "Route": "framework/System.Text.Json.wasm",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16875,8 +16875,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.wasm.br",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.br",
+      "Route": "framework/System.Text.Json.wasm.br",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16920,8 +16920,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.Json.wasm.gz",
-      "AssetFile": "_framework/System.Text.Json.h9hjck7oqu.wasm.gz",
+      "Route": "framework/System.Text.Json.wasm.gz",
+      "AssetFile": "framework/System.Text.Json.h9hjck7oqu.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -16965,8 +16965,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
+      "Route": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17023,13 +17023,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.RegularExpressions.wasm"
+          "Value": "framework/System.Text.RegularExpressions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
+      "Route": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17086,13 +17086,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.RegularExpressions.wasm"
+          "Value": "framework/System.Text.RegularExpressions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
+      "Route": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17131,13 +17131,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.RegularExpressions.wasm"
+          "Value": "framework/System.Text.RegularExpressions.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
+      "Route": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17184,13 +17184,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.RegularExpressions.wasm.br"
+          "Value": "framework/System.Text.RegularExpressions.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
+      "Route": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17237,13 +17237,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/System.Text.RegularExpressions.wasm.gz"
+          "Value": "framework/System.Text.RegularExpressions.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
+      "Route": "framework/System.Text.RegularExpressions.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17297,8 +17297,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
+      "Route": "framework/System.Text.RegularExpressions.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17352,8 +17352,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.wasm",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
+      "Route": "framework/System.Text.RegularExpressions.wasm",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17389,8 +17389,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.wasm.br",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
+      "Route": "framework/System.Text.RegularExpressions.wasm.br",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17434,8 +17434,8 @@
       ]
     },
     {
-      "Route": "_framework/System.Text.RegularExpressions.wasm.gz",
-      "AssetFile": "_framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
+      "Route": "framework/System.Text.RegularExpressions.wasm.gz",
+      "AssetFile": "framework/System.Text.RegularExpressions.k97bmwwlww.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17479,8 +17479,8 @@
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
+      "Route": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17537,13 +17537,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/TestBlazorGitHubPage.wasm"
+          "Value": "framework/TestBlazorGitHubPage.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
+      "Route": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17600,13 +17600,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/TestBlazorGitHubPage.wasm"
+          "Value": "framework/TestBlazorGitHubPage.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
+      "Route": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17645,13 +17645,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/TestBlazorGitHubPage.wasm"
+          "Value": "framework/TestBlazorGitHubPage.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
+      "Route": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17698,13 +17698,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/TestBlazorGitHubPage.wasm.br"
+          "Value": "framework/TestBlazorGitHubPage.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
+      "Route": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17751,13 +17751,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/TestBlazorGitHubPage.wasm.gz"
+          "Value": "framework/TestBlazorGitHubPage.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
+      "Route": "framework/TestBlazorGitHubPage.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17811,8 +17811,8 @@
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
+      "Route": "framework/TestBlazorGitHubPage.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -17866,8 +17866,8 @@
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.wasm",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
+      "Route": "framework/TestBlazorGitHubPage.wasm",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17903,8 +17903,8 @@
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.wasm.br",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
+      "Route": "framework/TestBlazorGitHubPage.wasm.br",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17948,8 +17948,8 @@
       ]
     },
     {
-      "Route": "_framework/TestBlazorGitHubPage.wasm.gz",
-      "AssetFile": "_framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
+      "Route": "framework/TestBlazorGitHubPage.wasm.gz",
+      "AssetFile": "framework/TestBlazorGitHubPage.u1dufab6qh.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -17993,8 +17993,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "_framework/blazor.boot.json",
+      "Route": "framework/blazor.boot.json",
+      "AssetFile": "framework/blazor.boot.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18030,8 +18030,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "_framework/blazor.boot.json.br",
+      "Route": "framework/blazor.boot.json",
+      "AssetFile": "framework/blazor.boot.json.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18085,8 +18085,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "_framework/blazor.boot.json.gz",
+      "Route": "framework/blazor.boot.json",
+      "AssetFile": "framework/blazor.boot.json.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18140,8 +18140,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "_framework/blazor.boot.json.br",
+      "Route": "framework/blazor.boot.json.br",
+      "AssetFile": "framework/blazor.boot.json.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18185,8 +18185,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "_framework/blazor.boot.json.gz",
+      "Route": "framework/blazor.boot.json.gz",
+      "AssetFile": "framework/blazor.boot.json.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18230,8 +18230,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.webassembly.js",
-      "AssetFile": "_framework/blazor.webassembly.js",
+      "Route": "framework/blazor.webassembly.js",
+      "AssetFile": "framework/blazor.webassembly.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18267,8 +18267,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.webassembly.js",
-      "AssetFile": "_framework/blazor.webassembly.js.br",
+      "Route": "framework/blazor.webassembly.js",
+      "AssetFile": "framework/blazor.webassembly.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18322,8 +18322,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.webassembly.js",
-      "AssetFile": "_framework/blazor.webassembly.js.gz",
+      "Route": "framework/blazor.webassembly.js",
+      "AssetFile": "framework/blazor.webassembly.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18377,8 +18377,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.webassembly.js.br",
-      "AssetFile": "_framework/blazor.webassembly.js.br",
+      "Route": "framework/blazor.webassembly.js.br",
+      "AssetFile": "framework/blazor.webassembly.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18422,8 +18422,8 @@
       ]
     },
     {
-      "Route": "_framework/blazor.webassembly.js.gz",
-      "AssetFile": "_framework/blazor.webassembly.js.gz",
+      "Route": "framework/blazor.webassembly.js.gz",
+      "AssetFile": "framework/blazor.webassembly.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18467,8 +18467,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.6330eklyj6.js",
-      "AssetFile": "_framework/dotnet.js",
+      "Route": "framework/dotnet.6330eklyj6.js",
+      "AssetFile": "framework/dotnet.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18507,13 +18507,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.js"
+          "Value": "framework/dotnet.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.6330eklyj6.js",
-      "AssetFile": "_framework/dotnet.js.gz",
+      "Route": "framework/dotnet.6330eklyj6.js",
+      "AssetFile": "framework/dotnet.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18570,13 +18570,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.js"
+          "Value": "framework/dotnet.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.6330eklyj6.js",
-      "AssetFile": "_framework/dotnet.js.br",
+      "Route": "framework/dotnet.6330eklyj6.js",
+      "AssetFile": "framework/dotnet.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18633,13 +18633,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.js"
+          "Value": "framework/dotnet.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.6330eklyj6.js.br",
-      "AssetFile": "_framework/dotnet.js.br",
+      "Route": "framework/dotnet.6330eklyj6.js.br",
+      "AssetFile": "framework/dotnet.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18686,13 +18686,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.js.br"
+          "Value": "framework/dotnet.js.br"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.6330eklyj6.js.gz",
-      "AssetFile": "_framework/dotnet.js.gz",
+      "Route": "framework/dotnet.6330eklyj6.js.gz",
+      "AssetFile": "framework/dotnet.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18739,13 +18739,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.js.gz"
+          "Value": "framework/dotnet.js.gz"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.js",
-      "AssetFile": "_framework/dotnet.js",
+      "Route": "framework/dotnet.js",
+      "AssetFile": "framework/dotnet.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18781,8 +18781,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.js",
-      "AssetFile": "_framework/dotnet.js.gz",
+      "Route": "framework/dotnet.js",
+      "AssetFile": "framework/dotnet.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18836,8 +18836,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.js",
-      "AssetFile": "_framework/dotnet.js.br",
+      "Route": "framework/dotnet.js",
+      "AssetFile": "framework/dotnet.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -18891,8 +18891,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.js.br",
-      "AssetFile": "_framework/dotnet.js.br",
+      "Route": "framework/dotnet.js.br",
+      "AssetFile": "framework/dotnet.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18936,8 +18936,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.js.gz",
-      "AssetFile": "_framework/dotnet.js.gz",
+      "Route": "framework/dotnet.js.gz",
+      "AssetFile": "framework/dotnet.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18981,8 +18981,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.br",
+      "Route": "framework/dotnet.native.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19036,8 +19036,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.gz",
+      "Route": "framework/dotnet.native.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19091,8 +19091,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js",
+      "Route": "framework/dotnet.native.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19128,8 +19128,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.js.br",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.br",
+      "Route": "framework/dotnet.native.js.br",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19173,8 +19173,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.js.gz",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.gz",
+      "Route": "framework/dotnet.native.js.gz",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19218,8 +19218,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.tzea50wav6.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.br",
+      "Route": "framework/dotnet.native.tzea50wav6.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19276,13 +19276,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.wasm"
+          "Value": "framework/dotnet.native.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.tzea50wav6.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.gz",
+      "Route": "framework/dotnet.native.tzea50wav6.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19339,13 +19339,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.wasm"
+          "Value": "framework/dotnet.native.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.tzea50wav6.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm",
+      "Route": "framework/dotnet.native.tzea50wav6.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19384,13 +19384,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.wasm"
+          "Value": "framework/dotnet.native.wasm"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.tzea50wav6.wasm.br",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.br",
+      "Route": "framework/dotnet.native.tzea50wav6.wasm.br",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19437,13 +19437,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.wasm.br"
+          "Value": "framework/dotnet.native.wasm.br"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.tzea50wav6.wasm.gz",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.gz",
+      "Route": "framework/dotnet.native.tzea50wav6.wasm.gz",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19490,13 +19490,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.wasm.gz"
+          "Value": "framework/dotnet.native.wasm.gz"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.u6us3tbyfm.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.br",
+      "Route": "framework/dotnet.native.u6us3tbyfm.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19553,13 +19553,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.js"
+          "Value": "framework/dotnet.native.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.u6us3tbyfm.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.gz",
+      "Route": "framework/dotnet.native.u6us3tbyfm.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19616,13 +19616,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.js"
+          "Value": "framework/dotnet.native.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.u6us3tbyfm.js",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js",
+      "Route": "framework/dotnet.native.u6us3tbyfm.js",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19661,13 +19661,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.js"
+          "Value": "framework/dotnet.native.js"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.u6us3tbyfm.js.br",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.br",
+      "Route": "framework/dotnet.native.u6us3tbyfm.js.br",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19714,13 +19714,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.js.br"
+          "Value": "framework/dotnet.native.js.br"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.u6us3tbyfm.js.gz",
-      "AssetFile": "_framework/dotnet.native.u6us3tbyfm.js.gz",
+      "Route": "framework/dotnet.native.u6us3tbyfm.js.gz",
+      "AssetFile": "framework/dotnet.native.u6us3tbyfm.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19767,13 +19767,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.native.js.gz"
+          "Value": "framework/dotnet.native.js.gz"
         }
       ]
     },
     {
-      "Route": "_framework/dotnet.native.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.br",
+      "Route": "framework/dotnet.native.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19827,8 +19827,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.gz",
+      "Route": "framework/dotnet.native.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -19882,8 +19882,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.wasm",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm",
+      "Route": "framework/dotnet.native.wasm",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19919,8 +19919,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.wasm.br",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.br",
+      "Route": "framework/dotnet.native.wasm.br",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -19964,8 +19964,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.native.wasm.gz",
-      "AssetFile": "_framework/dotnet.native.tzea50wav6.wasm.gz",
+      "Route": "framework/dotnet.native.wasm.gz",
+      "AssetFile": "framework/dotnet.native.tzea50wav6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20009,8 +20009,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.js",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.gz",
+      "Route": "framework/dotnet.runtime.js",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20064,8 +20064,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.js.gz",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.gz",
+      "Route": "framework/dotnet.runtime.js.gz",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20109,8 +20109,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.qrl1fuqt3c.js",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js",
+      "Route": "framework/dotnet.runtime.qrl1fuqt3c.js",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20146,8 +20146,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.qrl1fuqt3c.js",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.gz",
+      "Route": "framework/dotnet.runtime.qrl1fuqt3c.js",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20201,8 +20201,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.qrl1fuqt3c.js",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.br",
+      "Route": "framework/dotnet.runtime.qrl1fuqt3c.js",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20256,8 +20256,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.qrl1fuqt3c.js.br",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.br",
+      "Route": "framework/dotnet.runtime.qrl1fuqt3c.js.br",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20301,8 +20301,8 @@
       ]
     },
     {
-      "Route": "_framework/dotnet.runtime.qrl1fuqt3c.js.gz",
-      "AssetFile": "_framework/dotnet.runtime.qrl1fuqt3c.js.gz",
+      "Route": "framework/dotnet.runtime.qrl1fuqt3c.js.gz",
+      "AssetFile": "framework/dotnet.runtime.qrl1fuqt3c.js.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20349,13 +20349,13 @@
         },
         {
           "Name": "label",
-          "Value": "_framework/dotnet.runtime.js.gz"
+          "Value": "framework/dotnet.runtime.js.gz"
         }
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat",
-      "AssetFile": "_framework/icudt_CJK.tjcz0u77k5.dat",
+      "Route": "framework/icudt_CJK.tjcz0u77k5.dat",
+      "AssetFile": "framework/icudt_CJK.tjcz0u77k5.dat",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20391,8 +20391,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat",
-      "AssetFile": "_framework/icudt_CJK.tjcz0u77k5.dat.br",
+      "Route": "framework/icudt_CJK.tjcz0u77k5.dat",
+      "AssetFile": "framework/icudt_CJK.tjcz0u77k5.dat.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20446,8 +20446,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat",
-      "AssetFile": "_framework/icudt_CJK.tjcz0u77k5.dat.gz",
+      "Route": "framework/icudt_CJK.tjcz0u77k5.dat",
+      "AssetFile": "framework/icudt_CJK.tjcz0u77k5.dat.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20501,8 +20501,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat.br",
-      "AssetFile": "_framework/icudt_CJK.tjcz0u77k5.dat.br",
+      "Route": "framework/icudt_CJK.tjcz0u77k5.dat.br",
+      "AssetFile": "framework/icudt_CJK.tjcz0u77k5.dat.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20546,8 +20546,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_CJK.tjcz0u77k5.dat.gz",
-      "AssetFile": "_framework/icudt_CJK.tjcz0u77k5.dat.gz",
+      "Route": "framework/icudt_CJK.tjcz0u77k5.dat.gz",
+      "AssetFile": "framework/icudt_CJK.tjcz0u77k5.dat.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20591,8 +20591,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat",
-      "AssetFile": "_framework/icudt_EFIGS.tptq2av103.dat",
+      "Route": "framework/icudt_EFIGS.tptq2av103.dat",
+      "AssetFile": "framework/icudt_EFIGS.tptq2av103.dat",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20628,8 +20628,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat",
-      "AssetFile": "_framework/icudt_EFIGS.tptq2av103.dat.br",
+      "Route": "framework/icudt_EFIGS.tptq2av103.dat",
+      "AssetFile": "framework/icudt_EFIGS.tptq2av103.dat.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20683,8 +20683,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat",
-      "AssetFile": "_framework/icudt_EFIGS.tptq2av103.dat.gz",
+      "Route": "framework/icudt_EFIGS.tptq2av103.dat",
+      "AssetFile": "framework/icudt_EFIGS.tptq2av103.dat.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20738,8 +20738,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat.br",
-      "AssetFile": "_framework/icudt_EFIGS.tptq2av103.dat.br",
+      "Route": "framework/icudt_EFIGS.tptq2av103.dat.br",
+      "AssetFile": "framework/icudt_EFIGS.tptq2av103.dat.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20783,8 +20783,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_EFIGS.tptq2av103.dat.gz",
-      "AssetFile": "_framework/icudt_EFIGS.tptq2av103.dat.gz",
+      "Route": "framework/icudt_EFIGS.tptq2av103.dat.gz",
+      "AssetFile": "framework/icudt_EFIGS.tptq2av103.dat.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20828,8 +20828,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat",
-      "AssetFile": "_framework/icudt_no_CJK.lfu7j35m59.dat",
+      "Route": "framework/icudt_no_CJK.lfu7j35m59.dat",
+      "AssetFile": "framework/icudt_no_CJK.lfu7j35m59.dat",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20865,8 +20865,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat",
-      "AssetFile": "_framework/icudt_no_CJK.lfu7j35m59.dat.br",
+      "Route": "framework/icudt_no_CJK.lfu7j35m59.dat",
+      "AssetFile": "framework/icudt_no_CJK.lfu7j35m59.dat.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20920,8 +20920,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat",
-      "AssetFile": "_framework/icudt_no_CJK.lfu7j35m59.dat.gz",
+      "Route": "framework/icudt_no_CJK.lfu7j35m59.dat",
+      "AssetFile": "framework/icudt_no_CJK.lfu7j35m59.dat.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -20975,8 +20975,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat.br",
-      "AssetFile": "_framework/icudt_no_CJK.lfu7j35m59.dat.br",
+      "Route": "framework/icudt_no_CJK.lfu7j35m59.dat.br",
+      "AssetFile": "framework/icudt_no_CJK.lfu7j35m59.dat.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -21020,8 +21020,8 @@
       ]
     },
     {
-      "Route": "_framework/icudt_no_CJK.lfu7j35m59.dat.gz",
-      "AssetFile": "_framework/icudt_no_CJK.lfu7j35m59.dat.gz",
+      "Route": "framework/icudt_no_CJK.lfu7j35m59.dat.gz",
+      "AssetFile": "framework/icudt_no_CJK.lfu7j35m59.dat.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
