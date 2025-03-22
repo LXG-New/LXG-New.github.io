@@ -5,8 +5,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SCTS Misc</title>
-    <base href="/test/" />
-     
+    <base id="baseHref" href="/test/" />
+
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
     <link href="_content/MudBlazor/MudBlazor.min.css" rel="stylesheet" />
     <link rel="stylesheet" href="css/app.css" />
@@ -32,6 +32,11 @@
     <script src="_content/MudBlazor/MudBlazor.min.js"></script>
     <script src="_content/BlazorBarcodeScanner.ZXing.JS/zxingjs.index.min.js"></script>
     <script src="_content/BlazorBarcodeScanner.ZXing.JS/BlazorBarcodeScanner.js"></script>
+    <script>
+        window.updateBaseHref = function (basePath) {
+            document.getElementById('baseHref').setAttribute('href', basePath);
+        };
+    </script>
 </body>
 
 </html>
